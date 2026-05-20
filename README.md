@@ -11,8 +11,8 @@
 
 ### 🚀 Мои проекты
 
-*   **Системы учета:** Разрабатываю внутренние сервисы для управления данными и автоматизации отчетности. [PrintersApp](https://github.com/OlegTDev/app-printers-consumables)
-*   **HR-инструменты:** Создал приложение для управления отпусками сотрудников (на связке Yii2 + Inertia.js + Vue) [VacationApp](https://github.com/OlegTDev/app-vacations)
+*   **Система учета расходных материалов:** Внутренний сервис для управления данными по расходным материалам для принтеров и автоматизации отчетности (Laravel + Inertia.js + Vue + PrimeVue). [PrintersApp](https://github.com/OlegTDev/app-printers-consumables)
+*   **Приложение для просмотра отпусков:** Создал приложение для удобного просмотра отпусков сотрудников (Yii2 + Inertia.js + Vue) [VacationApp](https://github.com/OlegTDev/app-vacations)
 
 ### 📈 Статистика GitHub
 
