@@ -16,9 +16,10 @@
 
 ### 📈 Статистика GitHub
 
-[![OlegTDev GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegTDev)](https://github.com/OlegTDev)
+[![OlegTDev GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=OlegTDev)](https://github.com/OlegTDev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegTDev)](https://github.com/OlegTDev)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OlegTDev)](https://github.com/OlegTDev)
+
 
 
 ### 📫 Как со мной связаться
